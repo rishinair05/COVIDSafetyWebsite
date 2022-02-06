@@ -12,6 +12,7 @@ Resources:
 General Ontario Statistics: https://covid-19.ontario.ca/data/case-numbers-and-spread
 
 Ontario Data by Health Region: https://www.publichealthontario.ca/en/data-and-analysis/infectious-disease/covid-19-data-surveillance/covid-19-data-tool?tab=maps
+
 COVID Personal Risk: https://alama.org.uk/covid-19-medical-risk-assessment/
 
 WHO Guidelines Graphic: https://www.facebook.com/WHO/photos/stay-safe-and-healthy-during-covid-19-%EF%B8%8F/3452755371436488/
