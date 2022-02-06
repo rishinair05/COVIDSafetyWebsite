@@ -1,6 +1,8 @@
 # UofTHacksAdroren
 UofTHacks Hackathon Project. Team Adroren.
 
+Link to Project: https://30390.gradio.app
+
 Our project involves a user inputing personal information that will generate a vulnerability score. Using COVID statistics in one's area and their vulnerability
 score, we will calculate a risk score, suggesting if they should go out, hotspot areas to avoid and a reminder to follow COVID precautions (social distancing,
 wearing a mask, using hand sanatizer, etc.)
