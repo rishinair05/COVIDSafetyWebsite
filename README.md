@@ -1,7 +1,7 @@
 # UofTHacksAdroren
 UofTHacks Hackathon Project. Team Adroren.
 
-Link to Project: https://30390.gradio.app
+Link to Project: https://18413.gradio.app/
 
 PyVID-19 is a website that gives a user metrics on how safe it is to go outside during COVID time based on the user's area and personal information. 
 
